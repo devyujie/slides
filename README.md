@@ -1,2 +1,2 @@
 # slides
-🎥 Slides for talks and stuff  https://www.artjay.me/Talks/
+1. [lzh-open-source-club](<https://www.artjay.me/Talks/lzh-club/>)
